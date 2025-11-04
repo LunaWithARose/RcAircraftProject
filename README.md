@@ -24,5 +24,8 @@
 * Fixed problems: significantly better electronics space, larger wing chords, much better aerodynamics, better wing-body connection
 * Main problems: still significant wing sag, tail isntability, propeller-motor connection was terrible, nrf24l01 connection was sketchy, centery of gravity & mass was questionable
 
-<img src="https://github.com/LunaWithARose/RcAircraftProject/blob/main/pictures/version-1/20221127_175600.jpg" width="500" height="500"/>
+<img src="https://github.com/LunaWithARose/RcAircraftProject/blob/main/pictures/version-2/IMG_20230719_202717_952.jpg" width="500" height="500"/>
+<img src="https://github.com/LunaWithARose/RcAircraftProject/blob/main/pictures/version-2/IMG_20230719_202718_141.jpg" width="500" height="500"/>
+<img src="https://github.com/LunaWithARose/RcAircraftProject/blob/main/pictures/version-2/IMG_20230719_202718_231.jpg" width="500" height="500"/>
+
 
