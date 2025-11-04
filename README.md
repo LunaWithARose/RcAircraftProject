@@ -40,7 +40,7 @@
 * 8ft wingspan, rectangular wing, balsawood + carbon fiber frame, 3d printed filament
 * 2x 3200kv brushless motos, 2x 8inch carbon fiber propellers, teensy 4.0, nrf24l01+ln+pa, 6900mah battery
 * Used the most recent version of code
-* Fixed problems: more areo dynamic body, reduced weight, larger wing chords, significantly less wing sage, tail stability, got more stable nrf24l01 modules, significantly better center of mass & gracvity. Better propeller-motor connection
+* Fixed problems: more areo dynamic body, reduced weight, larger but tapered wing chords, significantly less wing sage, tail stability, got more stable nrf24l01 modules, significantly better center of mass & gracvity. Better propeller-motor connection, perfboard cpu
 
 <img src="https://github.com/LunaWithARose/RcAircraftProject/blob/main/pictures/version-3-%26-4/20240617_210627.jpg" height="500"/>
 <img src="https://github.com/LunaWithARose/RcAircraftProject/blob/main/pictures/version-3-%26-4/20251104_093800.jpg" height="500"/>
