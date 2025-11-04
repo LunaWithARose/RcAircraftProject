@@ -45,3 +45,15 @@
 <img src="https://github.com/LunaWithARose/RcAircraftProject/blob/main/pictures/version-3-%26-4/20240617_210627.jpg" height="500"/>
 <img src="https://github.com/LunaWithARose/RcAircraftProject/blob/main/pictures/version-3-%26-4/20251104_093800.jpg" height="500"/>
 <img src="https://github.com/LunaWithARose/RcAircraftProject/blob/main/pictures/version-3-%26-4/20251104_093909.jpg" height="500"/>
+
+## Boards
+
+Back in 2020-2022 I was super intrested in making pcb boards. I found pictures of two of them. The DRAC had a teensy 4.0 ARM chip as the telemetry and a Arduino ATmel 2650 as the controls system. Each chip had a backup system. The nrf24l01, TinyGPS, and MPU6050 unit on it. There are plenty of other features that I have lost over the past 5 years. I am putting this here to archive it so I do not forget more. 
+
+<img src="https://github.com/LunaWithARose/RcAircraftProject/blob/main/pictures/boards/Screenshot_2025-11-04_152123.png" height="500"/>
+<img src="https://github.com/LunaWithARose/RcAircraftProject/blob/main/pictures/boards/Screenshot_2025-11-04_152321.png" height="500"/>
+<img src="https://github.com/LunaWithARose/RcAircraftProject/blob/main/pictures/boards/Screenshot_2025-11-04_152449.png" height="500"/>
+
+The current functioning board that runs in the latest version of my airplane is ran by a teensy 4.0. 
+
+<img src="https://github.com/LunaWithARose/RcAircraftProject/blob/main/pictures/boards/20251104_150513.jpg" height="500"/>
