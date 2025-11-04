@@ -43,4 +43,5 @@
 * Fixed problems: more areo dynamic body, reduced weight, larger wing chords, significantly less wing sage, tail stability, got more stable nrf24l01 modules, significantly better center of mass & gracvity. Better propeller-motor connection
 
 <img src="https://github.com/LunaWithARose/RcAircraftProject/blob/main/pictures/version-3-%26-4/20240617_210627.jpg" width="500" height="500"/>
-
+<img src="https://github.com/LunaWithARose/RcAircraftProject/blob/main/pictures/version-3-%26-4/20251104_093800.jpg" width="500" height="500"/>
+<img src="https://github.com/LunaWithARose/RcAircraftProject/blob/main/pictures/version-3-%26-4/20251104_093909.jpg" width="500" height="500"/>
