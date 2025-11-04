@@ -21,6 +21,7 @@
 * First version of the fram to make an attempted flight
 * 8ft windspan, rectangular wing, balsa wood frame, 3d printed filament
 * 2x 1300kv brushless motors, 2x 11inch carbon fiber propellers, teensy 4.0, nrf24l01, 5200mah battery
+* Used the 1st and 2nd version of the code
 * Fixed problems: significantly better electronics space, larger wing chords, much better aerodynamics, better wing-body connection
 * Main problems: still significant wing sag, tail isntability, propeller-motor connection was terrible, nrf24l01 connection was sketchy, centery of gravity & mass was questionable
 
