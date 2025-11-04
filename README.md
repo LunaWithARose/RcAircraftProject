@@ -1,3 +1,6 @@
+![Fusion 360](https://img.shields.io/badge/CAD-Fusion%20360-orange?logo=autodesk)
+![F3D](https://img.shields.io/badge/File-.f3d-blue)
+
 # RcAircraftProject
 
 ## Frame Version 1
