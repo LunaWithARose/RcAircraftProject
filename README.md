@@ -19,7 +19,7 @@
 * Second Updated version of the frame with many fixes
 * 2023-24
 * First version of the fram to make an attempted flight
-* 8ft windspan, rectangular wing, balsa wood frame, 3d printed filament
+* 8ft wingspan, rectangular wing, balsa wood frame, 3d printed filament
 * 2x 1300kv brushless motors, 2x 11inch carbon fiber propellers, teensy 4.0, nrf24l01, 5200mah battery
 * Used the 1st and 2nd version of the code
 * Fixed problems: significantly better electronics space, larger wing chords, much better aerodynamics, better wing-body connection
@@ -29,4 +29,15 @@
 <img src="https://github.com/LunaWithARose/RcAircraftProject/blob/main/pictures/version-2/IMG_20230719_202718_141.jpg" width="500" height="500"/>
 <img src="https://github.com/LunaWithARose/RcAircraftProject/blob/main/pictures/version-2/IMG_20230719_202718_231.jpg" width="500" height="500"/>
 
+## Frame Version 3
+
+* Third and Fourth Version of my frame
+* 2024-45
+* Most current addition of the airplane. The version that has flew
+* 8ft wingspan, rectangular wing, balsawood + carbon fiber frame, 3d printed filament
+* 2x 3200kv brushless motos, 2x 8inch carbon fiber propellers, teensy 4.0, nrf24l01+ln+pa, 6900mah battery
+* Used the most recent version of code
+* Fixed problems: more areo dynamic body, reduced weight, larger wing chords, significantly less wing sage, tail stability, got more stable nrf24l01 modules, significantly better center of mass & gracvity. Better propeller-motor connection
+
+<img src="https://github.com/LunaWithARose/RcAircraftProject/blob/main/pictures/version-3-%26-4/20240617_210627.jpg" width="500" height="500"/>
 
