@@ -1,0 +1,6 @@
+*.f3z linguist-detectable=true
+*.f3z linguist-language=f3z
+*.f3z text
+*.f3d linguist-detectable=true
+*.f3d linguist-language=f3d
+*.f3d text
